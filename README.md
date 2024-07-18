@@ -6,5 +6,5 @@ The research delves into the detection of lung cancer subtypes, LUAD and LUSC, t
 
 ### File Descriptions
 
-DataImportAndPrep.ipynb : Script for importing and cleaning data from GDC data repository
-DataModelling.ipynb: Script for EDA and building models for prediction
+### DataImportAndPrep.ipynb : Script for importing and cleaning data from GDC data repository
+### DataModelling.ipynb: Script for EDA and building models for prediction
